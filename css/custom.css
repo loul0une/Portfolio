@@ -599,6 +599,7 @@ xclip
     margin-left: auto;
     margin-top: 0px;
     cursor: pointer;
+    margin-bottom: 100px;
 }
 
 .btn-hover-new::after {
